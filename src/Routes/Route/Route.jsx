@@ -28,6 +28,7 @@ export const route = createBrowserRouter([
                 path: '/rutin',
                 element: <Routin></Routin>
             },
+            // hello 
             {
                 path: '/gallery',
                 element: <Gallery></Gallery>
